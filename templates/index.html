@@ -1,0 +1,74 @@
+{% extends 'base.html' %}
+{% block  body%}
+						<!-- Me -->
+							<article id="home" class="panel intro">
+								<header>
+									{% if request.user.is_authenticated %}
+									<p>Portfolio of {{request.user.first_name}} {{request.user.last_name}}</p>
+									<p>For Admin Only: </p>
+									<p>
+
+										<a href="{% url 'signUp' %}"  class="text-blue-600 font-bold">Sign Up</a>
+									</p>
+									{% else %}
+									<p>Portfolio</p>
+									<p>For Admin Only: </p>
+									<p>
+										<a href="{% url 'signUp' %}" class="text-blue-600 font-bold">Sign Up</a>
+										
+									</p>
+									{% endif %}
+									
+									
+								</header>
+								
+								<a href="{% url 'projects' %}" class="jumplink pic">
+									<span class="arrow icon solid fa-chevron-right"><span>See my work</span></span>
+									{% if request.user.userprofile.profile_picture %}
+									<img src="{{request.user.userprofile.profile_picture.url}}" alt="" />
+									{% else %}
+									<img src="https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
+									{% endif %}
+									
+									
+									
+								</a>
+								
+							</article> 
+						<!-- Work -->
+							
+
+						<!-- Contact -->
+							<article id="contact" class="panel">
+								<header>
+									<h2>Contact Me</h2>
+								</header>
+								<form action="#" method="post">
+									<div>
+										<div class="row">
+											<div class="col-6 col-12-medium">
+												<input type="text" name="name" placeholder="Name" />
+											</div>
+											<div class="col-6 col-12-medium">
+												<input type="text" name="email" placeholder="Email" />
+											</div>
+											<div class="col-12">
+												<input type="text" name="subject" placeholder="Subject" />
+											</div>
+											<div class="col-12">
+												<textarea name="message" placeholder="Message" rows="6"></textarea>
+											</div>
+											<div class="col-12">
+												<input type="submit" value="Send Message" />
+											</div>
+										</div>
+									</div>
+								</form>
+							</article>
+							
+
+					
+{% endblock  %}
+				
+
+			

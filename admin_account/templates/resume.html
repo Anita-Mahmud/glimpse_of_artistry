@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block body %}
+<h2>Uploaded Resumes:</h2>
+<ul>
+    {% for r in resumes %}
+        <li><a href="{{r.resume.url}}" target="_blank">View Resume</a></li>
+        {% empty %}
+        <h1 class="text-5xl font-bold text-center p-10">No Blogs Available</h1>
+    {% endfor %}
+</ul>
+{% endblock  %}

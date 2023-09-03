@@ -1,0 +1,1557 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Projects",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rating",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Resume",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Skillset",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Blog",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Projects",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rating",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Resume",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Skillset",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Blog",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Projects",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rating",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Resume",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Skillset",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "isExtraImport": true,
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "BlogForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ContactForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectsForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "RatingForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ResumeForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "SkillForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdateForm",
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "isExtraImport": true,
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0001_initial",
+        "description": "admin_account.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "admin_account.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0002_profile_delete_userprofile",
+        "description": "admin_account.migrations.0002_profile_delete_userprofile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('admin_account', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "admin_account.migrations.0002_profile_delete_userprofile",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0003_userprofile_delete_profile",
+        "description": "admin_account.migrations.0003_userprofile_delete_profile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('admin_account', '0002_profile_delete_userprofile'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "admin_account.migrations.0003_userprofile_delete_profile",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0004_delete_userprofile",
+        "description": "admin_account.migrations.0004_delete_userprofile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0003_userprofile_delete_profile'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='UserProfile',\n        ),\n    ]",
+        "detail": "admin_account.migrations.0004_delete_userprofile",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0005_initial",
+        "description": "admin_account.migrations.0005_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('admin_account', '0004_delete_userprofile'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Projects',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "admin_account.migrations.0005_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0006_resume",
+        "description": "admin_account.migrations.0006_resume",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0005_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Resume',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('resume', models.FileField(upload_to='resumes/')),",
+        "detail": "admin_account.migrations.0006_resume",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0007_skillset",
+        "description": "admin_account.migrations.0007_skillset",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0006_resume'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Skillset',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=100, unique=True)),",
+        "detail": "admin_account.migrations.0007_skillset",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0008_alter_skillset_level",
+        "description": "admin_account.migrations.0008_alter_skillset_level",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0007_skillset'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='skillset',\n            name='level',\n            field=models.CharField(max_length=100),\n        ),",
+        "detail": "admin_account.migrations.0008_alter_skillset_level",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0009_blog",
+        "description": "admin_account.migrations.0009_blog",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0008_alter_skillset_level'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Blog',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=100)),",
+        "detail": "admin_account.migrations.0009_blog",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0010_contact",
+        "description": "admin_account.migrations.0010_contact",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0009_blog'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Contact',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('full_name', models.CharField(max_length=100)),",
+        "detail": "admin_account.migrations.0010_contact",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0011_projects_average_rating_projectrating",
+        "description": "admin_account.migrations.0011_projects_average_rating_projectrating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0010_contact'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='projects',\n            name='average_rating',\n            field=models.DecimalField(decimal_places=2, default=0, max_digits=3),\n        ),",
+        "detail": "admin_account.migrations.0011_projects_average_rating_projectrating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0012_profile_delete_projectrating",
+        "description": "admin_account.migrations.0012_profile_delete_projectrating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('admin_account', '0011_projects_average_rating_projectrating'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "admin_account.migrations.0012_profile_delete_projectrating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0013_remove_profile_user",
+        "description": "admin_account.migrations.0013_remove_profile_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0012_profile_delete_projectrating'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='profile',\n            name='user',\n        ),\n    ]",
+        "detail": "admin_account.migrations.0013_remove_profile_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0014_rating",
+        "description": "admin_account.migrations.0014_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('admin_account', '0013_remove_profile_user'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Rating',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "admin_account.migrations.0014_rating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0015_remove_projects_average_rating",
+        "description": "admin_account.migrations.0015_remove_projects_average_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0014_rating'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='projects',\n            name='average_rating',\n        ),\n    ]",
+        "detail": "admin_account.migrations.0015_remove_projects_average_rating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0016_projects_average_rating",
+        "description": "admin_account.migrations.0016_projects_average_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('admin_account', '0015_remove_projects_average_rating'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='projects',\n            name='average_rating',\n            field=models.DecimalField(decimal_places=2, default=0.0, max_digits=3),\n        ),",
+        "detail": "admin_account.migrations.0016_projects_average_rating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin_account.migrations.0017_userprofile_delete_profile",
+        "description": "admin_account.migrations.0017_userprofile_delete_profile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('admin_account', '0016_projects_average_rating'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "admin_account.migrations.0017_userprofile_delete_profile",
+        "documentation": {}
+    },
+    {
+        "label": "AdminAccountConfig",
+        "kind": 6,
+        "importPath": "admin_account.apps",
+        "description": "admin_account.apps",
+        "peekOfCode": "class AdminAccountConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'admin_account'",
+        "detail": "admin_account.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class UserRegistrationForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields=['username','first_name','last_name','email','password1','password2']\nclass UserUpdateForm(UserChangeForm):\n    class Meta:\n        model = User\n        fields=['first_name','last_name','email']\nclass ProjectsForm(forms.ModelForm):\n    class Meta:",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdateForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class UserUpdateForm(UserChangeForm):\n    class Meta:\n        model = User\n        fields=['first_name','last_name','email']\nclass ProjectsForm(forms.ModelForm):\n    class Meta:\n        model = Projects\n        fields = ['project_name','description','image','technologies','project_url','category']\nclass ResumeForm(forms.ModelForm):\n    class Meta:",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectsForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class ProjectsForm(forms.ModelForm):\n    class Meta:\n        model = Projects\n        fields = ['project_name','description','image','technologies','project_url','category']\nclass ResumeForm(forms.ModelForm):\n    class Meta:\n        model = Resume\n        fields = '__all__'\nclass SkillForm(forms.ModelForm):\n    level = forms.CharField(max_length=100,help_text = \"Enter between 10 to 100\")",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ResumeForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class ResumeForm(forms.ModelForm):\n    class Meta:\n        model = Resume\n        fields = '__all__'\nclass SkillForm(forms.ModelForm):\n    level = forms.CharField(max_length=100,help_text = \"Enter between 10 to 100\")\n    class Meta:\n        model = Skillset\n        fields = '__all__'\nclass BlogForm(forms.ModelForm):",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "SkillForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class SkillForm(forms.ModelForm):\n    level = forms.CharField(max_length=100,help_text = \"Enter between 10 to 100\")\n    class Meta:\n        model = Skillset\n        fields = '__all__'\nclass BlogForm(forms.ModelForm):\n    class Meta:\n        model = Blog\n        fields = '__all__'\nclass ContactForm(forms.ModelForm):",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "BlogForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class BlogForm(forms.ModelForm):\n    class Meta:\n        model = Blog\n        fields = '__all__'\nclass ContactForm(forms.ModelForm):\n    class Meta:\n        model = Contact\n        fields = '__all__'\nclass UserProfileForm(forms.ModelForm):\n    class Meta:",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ContactForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class ContactForm(forms.ModelForm):\n    class Meta:\n        model = Contact\n        fields = '__all__'\nclass UserProfileForm(forms.ModelForm):\n    class Meta:\n        model = UserProfile\n        fields = ['profile_picture']\nclass RatingForm(forms.ModelForm):\n    rating = forms.CharField(max_length=100,help_text = \"Enter between 0 to 7\")",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class UserProfileForm(forms.ModelForm):\n    class Meta:\n        model = UserProfile\n        fields = ['profile_picture']\nclass RatingForm(forms.ModelForm):\n    rating = forms.CharField(max_length=100,help_text = \"Enter between 0 to 7\")\n    class Meta:\n        model = Rating\n        fields = ['rating']",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "RatingForm",
+        "kind": 6,
+        "importPath": "admin_account.forms",
+        "description": "admin_account.forms",
+        "peekOfCode": "class RatingForm(forms.ModelForm):\n    rating = forms.CharField(max_length=100,help_text = \"Enter between 0 to 7\")\n    class Meta:\n        model = Rating\n        fields = ['rating']",
+        "detail": "admin_account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Projects",
+        "kind": 6,
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "peekOfCode": "class Projects(models.Model):\n    project_name = models.CharField(max_length=100, unique=True)\n    description = models.TextField(max_length=500)\n    image = models.ImageField(upload_to='photos/projects')\n    technologies = models.CharField(max_length=100)\n    project_url = models.CharField(max_length=100)\n    category = models.CharField(max_length=100)\n    average_rating = models.DecimalField(max_digits=3, decimal_places=2, default=0.00)\nclass Resume(models.Model):\n    resume = models.FileField(upload_to='resumes/')",
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Resume",
+        "kind": 6,
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "peekOfCode": "class Resume(models.Model):\n    resume = models.FileField(upload_to='resumes/')\nclass Skillset(models.Model):\n    title = models.CharField(max_length=100, unique=True)\n    level = models.CharField(max_length=100)\nclass Blog(models.Model):\n    title = models.CharField(max_length=100)\n    content = models.TextField()\nclass Contact(models.Model):\n    full_name = models.CharField(max_length=100)",
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Skillset",
+        "kind": 6,
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "peekOfCode": "class Skillset(models.Model):\n    title = models.CharField(max_length=100, unique=True)\n    level = models.CharField(max_length=100)\nclass Blog(models.Model):\n    title = models.CharField(max_length=100)\n    content = models.TextField()\nclass Contact(models.Model):\n    full_name = models.CharField(max_length=100)\n    email = models.EmailField(max_length=100)\n    address = models.CharField(max_length=100)",
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Blog",
+        "kind": 6,
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "peekOfCode": "class Blog(models.Model):\n    title = models.CharField(max_length=100)\n    content = models.TextField()\nclass Contact(models.Model):\n    full_name = models.CharField(max_length=100)\n    email = models.EmailField(max_length=100)\n    address = models.CharField(max_length=100)\n    message = models.TextField()\nclass UserProfile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)",
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "kind": 6,
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "peekOfCode": "class Contact(models.Model):\n    full_name = models.CharField(max_length=100)\n    email = models.EmailField(max_length=100)\n    address = models.CharField(max_length=100)\n    message = models.TextField()\nclass UserProfile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    profile_picture = models.ImageField(upload_to='profile_pictures/', blank=True, null=True)\nclass Rating(models.Model):\n    project = models.ForeignKey(Projects, on_delete=models.CASCADE)",
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "peekOfCode": "class UserProfile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    profile_picture = models.ImageField(upload_to='profile_pictures/', blank=True, null=True)\nclass Rating(models.Model):\n    project = models.ForeignKey(Projects, on_delete=models.CASCADE)\n    user = models.ForeignKey(User, on_delete=models.CASCADE) \n    rating = models.PositiveIntegerField()",
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rating",
+        "kind": 6,
+        "importPath": "admin_account.models",
+        "description": "admin_account.models",
+        "peekOfCode": "class Rating(models.Model):\n    project = models.ForeignKey(Projects, on_delete=models.CASCADE)\n    user = models.ForeignKey(User, on_delete=models.CASCADE) \n    rating = models.PositiveIntegerField()",
+        "detail": "admin_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class UserRegistrationView(FormView):\n    template_name = 'signUp.html'\n    form_class = UserRegistrationForm\n    success_url = reverse_lazy('home')\n    def form_valid(self,form):\n        print(form.cleaned_data)\n        user = form.save()\n        login(self.request, user)\n        print(user)\n        return super().form_valid(form) ",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class UserLoginView(LoginView):\n    template_name = 'login.html'\n    def get_success_url(self):\n        return reverse_lazy('home')\nclass UserLogoutView(LogoutView):\n    def get_success_url(self):\n        if self.request.user.is_authenticated:\n            logout(self.request)\n        return reverse_lazy('home')\nclass ProfileUpdateView(View):",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogoutView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class UserLogoutView(LogoutView):\n    def get_success_url(self):\n        if self.request.user.is_authenticated:\n            logout(self.request)\n        return reverse_lazy('home')\nclass ProfileUpdateView(View):\n    template_name = 'profile.html'\n    def get(self, request):\n        form = UserUpdateForm(instance=request.user)\n        return render(request, self.template_name, {'form': form})",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileUpdateView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class ProfileUpdateView(View):\n    template_name = 'profile.html'\n    def get(self, request):\n        form = UserUpdateForm(instance=request.user)\n        return render(request, self.template_name, {'form': form})\n    def post(self, request):\n        form = UserUpdateForm(request.POST, instance=request.user)\n        if form.is_valid():\n            form.save()\n            return redirect('home') ",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectCreateView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class ProjectCreateView(CreateView):\n    model = Projects\n    form_class = ProjectsForm\n    template_name = 'add_projects.html'\n    success_url = reverse_lazy('projects')\nclass ProjectListView(ListView):\n    model = Projects\n    template_name = 'projects.html'\n    # context_object_name = 'projects'\n    def get_queryset(self):",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectListView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class ProjectListView(ListView):\n    model = Projects\n    template_name = 'projects.html'\n    # context_object_name = 'projects'\n    def get_queryset(self):\n        return Projects.objects.all().order_by('-average_rating')\n# class ProjectDetailView(DetailView):\n#     model = Projects\n#     template_name = 'project_detail.html'\n#     context_object_name = 'i'",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "ResumeCreateView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class ResumeCreateView(CreateView):\n    model = Resume\n    form_class = ResumeForm\n    template_name = 'add_resume.html'\n    success_url = reverse_lazy('resume')\nclass ResumeListView(ListView):\n    model = Resume\n    template_name = 'resume.html'\n    context_object_name = 'resumes'\nclass SkillCreateView(CreateView):",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "ResumeListView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class ResumeListView(ListView):\n    model = Resume\n    template_name = 'resume.html'\n    context_object_name = 'resumes'\nclass SkillCreateView(CreateView):\n    model = Skillset\n    form_class = SkillForm\n    template_name = 'add_skill.html'\n    success_url = reverse_lazy('skill')\nclass SkillListView(ListView):",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "SkillCreateView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class SkillCreateView(CreateView):\n    model = Skillset\n    form_class = SkillForm\n    template_name = 'add_skill.html'\n    success_url = reverse_lazy('skill')\nclass SkillListView(ListView):\n    model = Skillset\n    template_name = 'skill.html'\n    context_object_name = 'skills'\nclass BlogCreateView(CreateView):",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "SkillListView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class SkillListView(ListView):\n    model = Skillset\n    template_name = 'skill.html'\n    context_object_name = 'skills'\nclass BlogCreateView(CreateView):\n    model = Blog\n    form_class = BlogForm\n    template_name = 'add_blog.html'\n    success_url = reverse_lazy('blog')\nclass BlogListView(ListView):",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "BlogCreateView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class BlogCreateView(CreateView):\n    model = Blog\n    form_class = BlogForm\n    template_name = 'add_blog.html'\n    success_url = reverse_lazy('blog')\nclass BlogListView(ListView):\n    model = Blog\n    template_name = 'blog.html'\n    context_object_name = 'blogs'\nclass ContactCreateView(CreateView):",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "BlogListView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class BlogListView(ListView):\n    model = Blog\n    template_name = 'blog.html'\n    context_object_name = 'blogs'\nclass ContactCreateView(CreateView):\n    model = Contact\n    form_class = ContactForm\n    template_name = 'contact.html'\n    success_url = reverse_lazy('thanks')\nclass Thanks(TemplateView):",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContactCreateView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class ContactCreateView(CreateView):\n    model = Contact\n    form_class = ContactForm\n    template_name = 'contact.html'\n    success_url = reverse_lazy('thanks')\nclass Thanks(TemplateView):\n    template_name = 'thanks.html'\nclass ProfilePictureCreateView(CreateView):\n    model = UserProfile\n    form_class = UserProfileForm",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "Thanks",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class Thanks(TemplateView):\n    template_name = 'thanks.html'\nclass ProfilePictureCreateView(CreateView):\n    model = UserProfile\n    form_class = UserProfileForm\n    template_name = 'add_pic.html'\n    success_url = reverse_lazy('home')\ndef edit_profile(request):\n    user_profile = UserProfile.objects.get_or_create(user=request.user)\n    if request.method == 'POST':",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProfilePictureCreateView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class ProfilePictureCreateView(CreateView):\n    model = UserProfile\n    form_class = UserProfileForm\n    template_name = 'add_pic.html'\n    success_url = reverse_lazy('home')\ndef edit_profile(request):\n    user_profile = UserProfile.objects.get_or_create(user=request.user)\n    if request.method == 'POST':\n        form = UserProfileForm(request.POST, request.FILES, instance=user_profile)\n        if form.is_valid():",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "RatingCreateView",
+        "kind": 6,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "class RatingCreateView(CreateView):\n    model = Rating\n    form_class = RatingForm\n    template_name = 'add_rating.html'\n    success_url = reverse_lazy('projects')\ndef rate_project(request, project_id):\n    project = Projects.objects.get(pk=project_id)\n    if request.method == 'POST':\n        form = RatingForm(request.POST)\n        if form.is_valid():",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_profile",
+        "kind": 2,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "def edit_profile(request):\n    user_profile = UserProfile.objects.get_or_create(user=request.user)\n    if request.method == 'POST':\n        form = UserProfileForm(request.POST, request.FILES, instance=user_profile)\n        if form.is_valid():\n            profile = form.save(commit=False)\n            profile.user = request.user\n            profile.save()\n            return redirect('profile')  # Redirect to the user's profile page\n    else:",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "rate_project",
+        "kind": 2,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "def rate_project(request, project_id):\n    project = Projects.objects.get(pk=project_id)\n    if request.method == 'POST':\n        form = RatingForm(request.POST)\n        if form.is_valid():\n            rating = form.save(commit=False)\n            rating.project = project\n            rating.user = request.user  # Optional, if you have user authentication\n            rating.save()\n            return redirect('projects')",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "project_detail",
+        "kind": 2,
+        "importPath": "admin_account.views",
+        "description": "admin_account.views",
+        "peekOfCode": "def project_detail(request, project_id):\n    project = get_object_or_404(Projects, pk=project_id)\n    ratings = project.rating_set.all()\n    average_rating = (\n        sum([rating.rating for rating in ratings]) / len(ratings)\n        if ratings\n        else 0\n    )\n    project.average_rating = average_rating\n    project.save()",
+        "detail": "admin_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.asgi",
+        "description": "glimpses_of_artistry.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "glimpses_of_artistry.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-kmbta))yn)e96(^lv27$7ix@h@2bs0*nt*dl@+1buh$$(n1e*6'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-kmbta))yn)e96(^lv27$7ix@h@2bs0*nt*dl@+1buh$$(n1e*6'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    \"crispy_forms\",",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    \"crispy_forms\",\n    \"crispy_tailwind\",\n    'admin_account',",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_ALLOWED_TEMPLATE_PACKS",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "CRISPY_ALLOWED_TEMPLATE_PACKS = \"tailwind\"\nCRISPY_TEMPLATE_PACK = \"tailwind\"\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = \"tailwind\"\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'glimpses_of_artistry.urls'",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "ROOT_URLCONF = 'glimpses_of_artistry.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'glimpses_of_artistry.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nSTATICFILES_DIRS = [",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nSTATICFILES_DIRS = [\n    BASE_DIR/'static',",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nSTATICFILES_DIRS = [\n    BASE_DIR/'static',\n]",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nSTATICFILES_DIRS = [\n    BASE_DIR/'static',\n]\n# Default primary key field type",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nSTATICFILES_DIRS = [\n    BASE_DIR/'static',\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "MEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nSTATICFILES_DIRS = [\n    BASE_DIR/'static',\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / 'media'\nSTATICFILES_DIRS = [\n    BASE_DIR/'static',\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    BASE_DIR/'static',\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.settings",
+        "description": "glimpses_of_artistry.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "glimpses_of_artistry.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.urls",
+        "description": "glimpses_of_artistry.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',views.home,name=\"home\"),\n    path('admin_account/',include('admin_account.urls')),\n]+static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "glimpses_of_artistry.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "glimpses_of_artistry.views",
+        "description": "glimpses_of_artistry.views",
+        "peekOfCode": "def home(request):\n    return render(request,'index.html')",
+        "detail": "glimpses_of_artistry.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "glimpses_of_artistry.wsgi",
+        "description": "glimpses_of_artistry.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "glimpses_of_artistry.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'glimpses_of_artistry.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

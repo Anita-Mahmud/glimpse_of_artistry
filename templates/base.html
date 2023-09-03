@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+{% load static %}
+<!--
+	Astral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>{% block title %}{% endblock title %}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        
+		<link rel="stylesheet" href="{% static 'assets/css/main.css'%}" />
+		<noscript><link rel="stylesheet" href="{% static 'assets/css/noscript.css' %}" /></noscript>
+        <link href="https://cdn.jsdelivr.net/npm/daisyui@3.6.4/dist/full.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn.tailwindcss.com"></script>
+	</head>
+	<body class="is-preload">
+       
+        
+        <div class="navbar bg-base-100">
+          <div class="navbar-start">
+            <div class="dropdown">
+              <label tabindex="0" class="btn btn-ghost lg:hidden">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+              </label>
+              
+            </div>
+            <a class="btn btn-ghost normal-case text-xl" href="{% url 'home' %}">Glimps of Artistry</a>
+          </div>
+          <div class="navbar-center hidden lg:flex">
+            <ul class="menu menu-horizontal px-1">
+              <li><a href="{% url 'projects' %}">Projects</a></li>
+              <li><a href="{% url 'resume' %}">Resume</a></li>
+              <li><a href="{% url 'skill' %}">Skills</a></li>
+              <li><a href="{% url 'blog' %}">Blog</a></li>
+              <li><a href="{% url 'contact' %}">Contact</a></li>
+              
+              
+            </ul>
+          </div>
+          {% if request.user.is_authenticated %}
+          
+          <div class="navbar-end">
+            <ul class="menu menu-horizontal ">
+            
+              <li tabindex="0">
+                <details>
+                  <summary class="btn">Add</summary>
+                  <ul class="p-2">
+                    <li><a href="{% url 'add_projects' %}">Project</a></li>
+                    <li><a href="{% url 'add_resume' %}">Resume/CV</a></li>
+                    <li><a href="{% url 'add_skill' %}">Skills</a></li>
+                    <li><a href="{% url 'add_blog' %}">Blog</a></li>
+                  </ul>
+                </details>
+              </li>
+              <li tabindex="0">
+                <details>
+                  <summary class="btn">Profile</summary>
+                  <ul class="p-2">
+                    <li><a href="{% url 'profile' %}">View Profile</a></li>
+                    <li><a href="{% url 'logout' %}">Logout</a></li>
+                    
+                  </ul>
+                </details>
+              </li>
+            </ul>
+            
+          </div>
+          {% endif %}
+        </div>
+        
+          
+		<!-- Wrapper-->
+			<div id="wrapper">
+                
+                
+                <div id="main">
+                    {% block body %}{% endblock body %}
+                </div>
+                {% include 'footer.html' %}
+            </div>
+
+            <!-- Scripts -->
+                <script src="{% static 'assets/js/jquery.min.js'%}"></script>
+                <script src="{% static 'assets/js/browser.min.js'%}"></script>
+                <script src="{% static 'assets/js/breakpoints.min.js'%}"></script>
+                <script src="{% static 'assets/js/util.js' %}"></script>
+                <script src="{% static 'assets/js/main.js' %}"></script>
+    
+        </body>
+    </html>
